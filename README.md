@@ -26,7 +26,7 @@ font-size:3.13rem; line-height:1.3; letter-spacing:-0.02em;
 ## 부제목 t 40
 font-size:2.50rem; font-weight:500; line-height:1.2; letter-spacing:-0.01em;
 ## 내용강조 t 22
-font-size:1.38rem; line-height:1.2; font-weight:700; 
+font-size:1.38rem; line-height:1.2; font-weight:500; 
 ## 내용강조 t 22 regular
 font-size:1.38rem; line-height:1.2;
 ## 내용 t 16
@@ -41,7 +41,7 @@ font-size:1.38rem; font-weight:500; line-height:1.2; letter-spacing:-0.01em;
 ## 소제목 m 20
 font-size:1.25rem; font-weight:700; line-height:1.2; letter-spacing:-0.01em;
 ## 내용강조 m 14
-font-size:0.88rem; font-weight:700; line-height:1.2; letter-spacing:-0.02em;
+font-size:0.88rem; font-weight:500; line-height:1.2; letter-spacing:-0.02em;
 ## 내용강조 m 14 regular
 font-size:0.88rem; line-height:1.2; letter-spacing:-0.02em;
 ## 내용 m 12
